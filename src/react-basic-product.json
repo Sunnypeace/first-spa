@@ -1,0 +1,9 @@
+
+[
+  {"id":1,"name":"Apple","price":5,"image":"apple.jpg","description":"50g per day1 good health"},
+  {"id":2,"name":"Orange","price":3,"image":"Orange.jpg","description":"50g per day2 good health"},
+  {"id":3,"name":"Mango","price":4,"image":"mango.jpg","description":"500g per day3 good health"},
+  {"id":4,"name":"Watermelon","price":20,"image":"watermelon.jpg","description":"2kg per day4 good health"},
+  {"id":5,"name":"Blueberry","price":10,"image":"blueberry.jpg","description":"50g per day5 good health"},
+  {"id":6,"name":"White-carrot","price":5,"image":"white-carrot.jpg","description":"1kg per day6 good health"}
+]
